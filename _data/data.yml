@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: cedric@martinez.lt
     phone: +41 79 845 47 35
-    timezone: Europe/Zurich Timezone
+    timezone: Driving License B
     citizenship: Swiss
     website:  #do not add http://
     linkedin: 
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: Chemin du Fau-blanc 26, 1009 Pully, Switzerland
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
