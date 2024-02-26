@@ -1,6 +1,12 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
+    {% if sidebar.address %}
+    <li class="address"><i class="fas fa-address-card"></i>
+      <a href="">{{ sidebar.address }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
@@ -18,7 +24,13 @@
       <a href="">{{ sidebar.citizenship }}</a>
     </li>
     {% endif %}
-
+    
+    {% if sidebar.license %}
+    <li class="license"><i class="fas fa-drivers-license"></i>
+      <a href="">{{ sidebar.license }}</a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.timezone %}
     <li class="timezone"><i class="fas fa-clock"></i>
       <a href="">{{ sidebar.timezone }}</a>
