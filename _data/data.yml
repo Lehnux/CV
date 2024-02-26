@@ -171,24 +171,16 @@ certifications:
             Older certification. 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Dell VXRail
-        level: 98%
 
       - name: GNU/Linux
-        level: 98%
 
       - name: Powershell
-        level: 98%
 
       - name: VMware ESXI
-        level: 95%
 
       - name: Veeam
-        level: 95%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-      - name: Windows Server
-        level: 90%
