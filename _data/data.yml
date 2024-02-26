@@ -60,7 +60,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      I am eager to pursue new opportunities in Switzerland.
 education:
     title: Education
     info:
@@ -132,35 +132,34 @@ certifications:
           credentialid: 15K480ULAGEE41FKE
           credentialurl: www.certmetrics.com/dell/public/verification.aspx
           credentialname: Dell
-          details: |
-            Details about cert. 
+          details: 
+          
         - name: Dell Associate - Cloud Infrastructure and Services Version 4.0
           start: 2019
           end:
           organization: Dell
-          credentialid: 15K480LAGEE41FKE
+          credentialid: 15K480ULAGEE41FKE
           credentialurl: www.certmetrics.com/dell/public/verification.aspx
           credentialname: Dell
-          details: |
-            Older certification. 
+          details: 
+          
         - name: HPE0-V14 - Building HPE Hybrid IT Solutions
           start: 2022
           end:
           organization: HPE
-          credentialid: 111-222
-          credentialurl: www.github.com
+          credentialid: 
+          credentialurl: www.hpe.com
           credentialname: HPE
-          details: |
-            Older certification. 
+          details: 
+          
         - name: HM9K9S - HPE Simplivity Software Install for vSphere
           start: 2021
           end:
           organization: HPE
-          credentialid: 111-222
-          credentialurl: www.github.com
+          credentialid: 
+          credentialurl: www.hpe.com
           credentialname: HPE
-          details: |
-            Older certification. 
+          details: 
 
 skills:
     title: Skills
